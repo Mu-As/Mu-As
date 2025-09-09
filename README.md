@@ -1,24 +1,13 @@
-# 👋 Merhaba, ben Muzaffer.  
-![Profile views](https://komarev.com/ghpvc/?username=Mu-As&color=blue&style=flat-square)
+# 👋 Merhaba, ben Muzaffer. Modern web teknolojileriyle uygulamalar geliştiriyorum.  
 
-💻 **Full Stack Developer**  
-🚀 Angular | OpenLayers | Google Maps | Next.js | JavaScript | TypeScript | NestJS | .NET  
-
----
-
-## 🚀 Hakkımda
-Ben Muzaffer, **Full Stack Developer** olarak modern web teknolojileriyle uygulamalar geliştiriyorum.  
-Uzmanlık alanlarım: **Angular, OpenLayers, Google Maps, Next.js, TypeScript, NestJS ve .NET**.  
+💻 **Front-End Developer**  
+**Angular | OpenLayers | Google Maps | Next.js | JavaScript | TypeScript | NestJS | .NET**.
 
 - 🌍 Harita tabanlı uygulamalar  
 - ⚡ Tek sayfa (SPA) uygulamalar  
-- 🎯 Landing page ve dijital marketing siteleri  
+- 🎯 Landing page ve dijital marketing siteleri   
 
-Amacım, **performanslı, kullanıcı dostu ve sürdürülebilir yazılımlar** üretmek.  
-
----
-
-## 🛠️ Teknolojiler
+## 🛠️ Kullandığım Teknolojiler
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -50,8 +39,11 @@ Amacım, **performanslı, kullanıcı dostu ve sürdürülebilir yazılımlar** 
 
 ## 📫 Bana Ulaşın
 🌐 [Portfolio](https://muzafferaskar.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/muzaffer-askar/)  
-📧 **muzafferaskarr@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/mu-as/)  
+📧 **muh.muzafferaskar@gmail.com**  
 
 ---
-✨ _“Clean code, scalable architecture, meaningful impact.”_ ✨
+
+![Profile views](https://komarev.com/ghpvc/?username=Mu-As&color=blue&style=flat-square)
+
+✨ _“Code more, that's all.”_ ✨
