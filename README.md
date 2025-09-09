@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Muzaffer. I build applications with modern web technologies.  
+# 👋 Hi, I'm Front-End Developer. I build applications with modern web technologies.  
 
-💻 I specialize in **front-end development**, creating interactive and responsive web applications using  
-**Angular | OpenLayers | Google Maps | Next.js | JavaScript | TypeScript | CSS | SCSS | NestJS | .NET**.
+# What I Do
+- Map-based applications  
+- Single Page Applications (SPA)  
+- Landing pages and digital marketing websites  
 
-- 🌍 Map-based applications  
-- ⚡ Single Page Applications (SPA)  
-- 🎯 Landing pages and digital marketing websites  
-
-## 🛠️ Tech Skills
+## Tech Skills
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -32,9 +30,7 @@
 
 ---
 
-## 📈 My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-As&show_icons=true&theme=radical&hide_border=true)  
+## 📈 My GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-As&layout=compact&theme=radical&hide_border=true)
 
 ---
