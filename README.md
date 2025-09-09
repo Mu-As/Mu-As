@@ -1,19 +1,21 @@
-# 👋 Merhaba, ben Muzaffer. Modern web teknolojileriyle uygulamalar geliştiriyorum.  
+# 👋 Hi, I'm Muzaffer. I build applications with modern web technologies.  
 
-💻 **Front-End Developer**  
-**Angular | OpenLayers | Google Maps | Next.js | JavaScript | TypeScript | NestJS | .NET**.
+💻 I specialize in **front-end development**, creating interactive and responsive web applications using  
+**Angular | OpenLayers | Google Maps | Next.js | JavaScript | TypeScript | CSS | SCSS | NestJS | .NET**.
 
-- 🌍 Harita tabanlı uygulamalar  
-- ⚡ Tek sayfa (SPA) uygulamalar  
-- 🎯 Landing page ve dijital marketing siteleri   
+- 🌍 Map-based applications  
+- ⚡ Single Page Applications (SPA)  
+- 🎯 Landing pages and digital marketing websites  
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Tech Skills
 
 **Frontend**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Backend**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -30,14 +32,14 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
+## 📈 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-As&show_icons=true&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-As&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Get in Touch
 🌐 [Portfolio](https://muzafferaskar.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mu-as/)  
 📧 **muh.muzafferaskar@gmail.com**  
