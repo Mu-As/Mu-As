@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Muzaffer (Mu-As)  
+# 👋 Merhaba, ben Muzaffer.  
 ![Profile views](https://komarev.com/ghpvc/?username=Mu-As&color=blue&style=flat-square)
 
 💻 **Full Stack Developer**  
