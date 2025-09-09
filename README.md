@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Muzaffer  
+# Hi, I'm Muzaffer  
 I build **modern, interactive web applications** using the latest technologies.  
 
 ---
 
-## 💼 What I Do
-- 🌍 **Map-based applications**  
-- ⚡ **Single Page Applications (SPA)**  
-- 🎯 **Landing pages & digital marketing websites**  
+## What I Do
+- **Map-based applications**  
+- **Single Page Applications (SPA)**  
+- **Landing pages & digital marketing websites**  
 
 ---
 
-## 🛠️ Tech Skills
+## Tech Skills
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -35,18 +35,18 @@ I build **modern, interactive web applications** using the latest technologies.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-As&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Get in Touch
-🌐 [Portfolio](https://muzafferaskar.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/mu-as/)  
-📧 **muh.muzafferaskar@gmail.com**  
+## Get in Touch
+[Portfolio](https://muzafferaskar.com)  
+[LinkedIn](https://www.linkedin.com/in/mu-as/)  
+**Email:** muh.muzafferaskar@gmail.com  
 
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mu-As&color=blue&style=flat-square)
 
-✨ _“Code more, that's all.”_ ✨
+_"Code more, that's all."_
