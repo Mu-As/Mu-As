@@ -1,7 +1,5 @@
 `Front-End Developer`
 
-### _"Code more, that's all."_
-
 [muzafferaskar.com](https://muzafferaskar.com/)
 
 ---
